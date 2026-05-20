@@ -1,0 +1,5 @@
+0 Controle de videogame
+1 Teclado de computador
+2 Mouse de Computador
+3 Celular
+4 Headset
